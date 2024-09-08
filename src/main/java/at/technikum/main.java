@@ -54,4 +54,4 @@ public class main{
     private void switchPlayer() {
         currentPlayer = (currentPlayer == PLAYER_X) ? PLAYER_O : PLAYER_X;
     }
-
+}
