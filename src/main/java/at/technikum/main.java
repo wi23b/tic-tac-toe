@@ -1,6 +1,6 @@
 package at.technikum;
 
-   public void play() {
+   public void Main() {
         boolean gameEnded = false;
         while (!gameEnded) {
             printBoard();
