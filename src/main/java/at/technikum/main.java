@@ -1,5 +1,5 @@
 package at.technikum;
-
+public class main{
    public void Main() {
         boolean gameEnded = false;
         while (!gameEnded) {
@@ -54,4 +54,4 @@ package at.technikum;
     private void switchPlayer() {
         currentPlayer = (currentPlayer == PLAYER_X) ? PLAYER_O : PLAYER_X;
     }
-    
+}
